@@ -1,5 +1,4 @@
 // more info see https://dev.to/opensauced/set-up-a-nextjs-project-with-typescript-tailwind-and-storybook-3j1k
-import '../styles/reset.scss';
 import '../styles/globals.scss';
 
 export const parameters = {
